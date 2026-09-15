@@ -6,6 +6,16 @@ The project includes **Exploratory Data Analysis (EDA)** using Python and an int
 
 ---
 
+## 🚀 Live Dashboard
+
+### 🔗 Streamlit App
+
+👉 https://mental-health-survey-app-1137.streamlit.app/
+
+The interactive dashboard allows users to explore mental health treatment patterns, workplace support, demographic factors, and geographic trends using dynamic filters and visualizations.
+
+---
+
 ## 📌 Project Overview
 
 Mental health is an important aspect of a healthy workplace environment. This project analyzes survey responses to understand patterns related to mental health treatment, workplace support, employee attitudes, and access to mental health resources.
@@ -56,11 +66,13 @@ The project uses the **Mental Health in Tech Survey** dataset.
 
 ### Dataset Details
 
-- **Rows:** 1,259
-- **Columns:** 27
-- **Data Type:** Survey Data
-- **Domain:** Mental Health / Technology Workplace
-- **Target Variable:** `treatment`
+| Detail | Value |
+|---|---|
+| Rows | 1,259 |
+| Columns | 27 |
+| Domain | Mental Health / Technology Workplace |
+| Data Type | Survey Data |
+| Target Variable | `treatment` |
 
 ### Important Variables
 
@@ -137,3 +149,5 @@ Correlation Analysis
 Business Insights
       ↓
 Interactive Streamlit Dashboard
+      ↓
+Streamlit Cloud Deployment
